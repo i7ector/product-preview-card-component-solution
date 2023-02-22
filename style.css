@@ -144,6 +144,7 @@ h2 {
   #desktop-img {
     display: block;
     width: 100%;
+    height: 100%;
   }
 
   .left-section {
